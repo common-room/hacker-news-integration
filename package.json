@@ -1,0 +1,16 @@
+{
+  "name": "hacker-news-integration",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "End to end working example of integration between Hacker News and Common Room.",
+  "dependencies": {
+    "firebase": "^10.13.2",
+    "node-fetch": "^3.3.2"
+  }
+}
