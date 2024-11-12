@@ -84,7 +84,7 @@ us to deploy our container without having to worry about managing the underlying
         - Container Name: Provide a name for your container.
         - Image: Specify the Docker image URI (e.g. \<your-account-id\>.dkr.ecr.\<your-region\>.amazonaws.com/hacker-news-integration:latest).
         - Memory Limits: Set the memory limits.
-        - ort Mappings: Map the container port to a host port (e.g., 3000:3000).
+        - Port Mappings: Map the container port to a host port (e.g., 3000:3000).
 
 5. **Create a Service**
     1. Create a Service: In the ECS console, go to "Services" and click "Create".

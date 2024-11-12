@@ -1,5 +1,5 @@
 const appConfig = {
-  // Add more keywords here
+  // Hacker News story types to monitor
   storyTypes: [
     "topstories",
     "newstories",
@@ -8,7 +8,7 @@ const appConfig = {
     "showstories",
   ],
 
-  // Add more keywords here
+  // Keywords to monitor
   keywords: [
     "common room",
     "person360",
